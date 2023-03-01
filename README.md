@@ -1,6 +1,6 @@
 # Credit-Risk-Analysis-for-extending-Bank-Loans
 
-**About Problem:**
+__About Problem:__
 
 Credit scoring is a classification problem where the objective is to predict whether or not an individual will default on their credit.
 
