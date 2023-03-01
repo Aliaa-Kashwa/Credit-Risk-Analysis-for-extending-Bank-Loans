@@ -8,7 +8,7 @@ Credit scoring is perhaps one of the most "classic" applications for predictive 
 
 There are many variations and complexities regarding how exactly credit is extended to individuals, businesses, and other organizations for various purposes (purchasing equipment, real estate, consumer items, and so on), and using various methods of credit (credit card, loan, delayed payment plan). But in all cases, the lender provides money to an individual or institution and expects to be paid back in time with interest commensurate with the risk of default.
 
-About Dataset:
+__About Dataset:__
 
 age: Age of the Customers
 
@@ -28,9 +28,9 @@ othdebt: Other debts
 
 default: Customer defaulted in the past (1= defaulted, 0= Never defaulted)
 
-Dataset Kaggle Link: https://www.kaggle.com/datasets/atulmittal199174/credit-risk-analysis-for-extending-bank-loans
+__Dataset Kaggle Link:__ https://www.kaggle.com/datasets/atulmittal199174/credit-risk-analysis-for-extending-bank-loans
 
-Bussiness Objectives:
+__Bussiness Objectives:__
 
 Marketing Aspect
 Application Aspect
